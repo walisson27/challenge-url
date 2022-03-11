@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://temperatura-sand.vercel.app/">Pagina do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Sobre Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://temperatura-sand.vercel.app/">Video da tela do aplicativo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   
 </p>
@@ -28,9 +28,8 @@ Assim que o processo terminar, automaticamente será aberta no seu navegador a p
 
 <br>
 
-## 💻 Projeto
-
-
-
+## 💻 Partes que podiam ser melhoradas no Projeto :
+ - Cadastro de usuário
+ - Gerar um QR code com cada url gerada
 
 Feito por [Walisson Souza](https://github.com/walisson27)
