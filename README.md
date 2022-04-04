@@ -21,15 +21,12 @@ Para iniciar o **Projeto** utilize os comandos:
 
 ```bash
 yarn install
-yarn serve
+yarn start
 ```
 
-Assim que o processo terminar, automaticamente será aberta no seu navegador a página `http://localhost:8080/`.
+Assim que o processo terminar, automaticamente será aberta no seu navegador a página `http://localhost:3000/`.
 
 <br>
 
-## 💻 Partes que podiam ser melhoradas no Projeto :
- - Cadastro de usuário
- - Gerar um QR code com cada url gerada
 
 Feito por [Walisson Souza](https://github.com/walisson27)
