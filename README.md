@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://challenge-url.vercel.app/">Pagina do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://share.vidyard.com/watch/XZL9MLbKWox17PurQnU2Zr?">Video da tela do aplicativo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   
 </p>
